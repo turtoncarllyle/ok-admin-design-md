@@ -1,4 +1,4 @@
-# ok-admin-md
+# ok-admin-design-md
 
 [简体中文](README.md) | [English](README.en-US.md)
 
@@ -25,7 +25,7 @@
 
 | ok-admin 版本 | 英文规范 | 简体中文规范 | GitHub Release |
 | --- | --- | --- | --- |
-| `2.0_dev` | [DESIGN.md](versions/2.0_dev/DESIGN.md) | [DESIGN.zh-CN.md](versions/2.0_dev/DESIGN.zh-CN.md) | [v2.0_dev](https://github.com/turtoncarllyle/ok-admin-md/releases/tag/v2.0_dev) |
+| `2.0_dev` | [DESIGN.md](versions/2.0_dev/DESIGN.md) | [DESIGN.zh-CN.md](versions/2.0_dev/DESIGN.zh-CN.md) | [v2.0_dev](https://github.com/turtoncarllyle/ok-admin-design-md/releases/tag/v2.0_dev) |
 
 英文 `DESIGN.md` 是默认生态入口，中文规范保持相同章节、令牌和技术字面量。版本目录中的文件代表 `main` 上的当前文档；Release 附件是发布时的快照。
 
@@ -42,7 +42,7 @@
 
 ```powershell
 Invoke-WebRequest `
-  -Uri "https://raw.githubusercontent.com/turtoncarllyle/ok-admin-md/main/versions/2.0_dev/DESIGN.md" `
+  -Uri "https://raw.githubusercontent.com/turtoncarllyle/ok-admin-design-md/main/versions/2.0_dev/DESIGN.md" `
   -OutFile ".\DESIGN.md"
 ```
 
@@ -50,7 +50,7 @@ Invoke-WebRequest `
 
 ```powershell
 Invoke-WebRequest `
-  -Uri "https://raw.githubusercontent.com/turtoncarllyle/ok-admin-md/main/versions/2.0_dev/DESIGN.zh-CN.md" `
+  -Uri "https://raw.githubusercontent.com/turtoncarllyle/ok-admin-design-md/main/versions/2.0_dev/DESIGN.zh-CN.md" `
   -OutFile ".\DESIGN.md"
 ```
 

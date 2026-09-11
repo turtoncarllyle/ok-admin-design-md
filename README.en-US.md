@@ -1,4 +1,4 @@
-# ok-admin-md
+# ok-admin-design-md
 
 [简体中文](README.md) | [English](README.en-US.md)
 
@@ -25,7 +25,7 @@ It is not a runnable admin application and does not provide real authentication,
 
 | ok-admin version | Canonical English | Simplified Chinese | GitHub Release |
 | --- | --- | --- | --- |
-| `2.0_dev` | [DESIGN.md](versions/2.0_dev/DESIGN.md) | [DESIGN.zh-CN.md](versions/2.0_dev/DESIGN.zh-CN.md) | [v2.0_dev](https://github.com/turtoncarllyle/ok-admin-md/releases/tag/v2.0_dev) |
+| `2.0_dev` | [DESIGN.md](versions/2.0_dev/DESIGN.md) | [DESIGN.zh-CN.md](versions/2.0_dev/DESIGN.zh-CN.md) | [v2.0_dev](https://github.com/turtoncarllyle/ok-admin-design-md/releases/tag/v2.0_dev) |
 
 The English `DESIGN.md` is the ecosystem entry point. The Chinese edition keeps the same sections, tokens, and technical literals. Version-directory files are the current documents on `main`; Release assets are publication snapshots.
 
@@ -42,7 +42,7 @@ Download the English specification:
 
 ```powershell
 Invoke-WebRequest `
-  -Uri "https://raw.githubusercontent.com/turtoncarllyle/ok-admin-md/main/versions/2.0_dev/DESIGN.md" `
+  -Uri "https://raw.githubusercontent.com/turtoncarllyle/ok-admin-design-md/main/versions/2.0_dev/DESIGN.md" `
   -OutFile ".\DESIGN.md"
 ```
 
@@ -50,7 +50,7 @@ Download the Simplified Chinese specification:
 
 ```powershell
 Invoke-WebRequest `
-  -Uri "https://raw.githubusercontent.com/turtoncarllyle/ok-admin-md/main/versions/2.0_dev/DESIGN.zh-CN.md" `
+  -Uri "https://raw.githubusercontent.com/turtoncarllyle/ok-admin-design-md/main/versions/2.0_dev/DESIGN.zh-CN.md" `
   -OutFile ".\DESIGN.md"
 ```
 
